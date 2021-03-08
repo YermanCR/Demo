@@ -1,12 +1,12 @@
 # Demo
 ***
-##Pruebas
+## Pruebas
 
 ***
-***
-We are learn git.
 
-This is a test.
+We are learn Git and GitHub.
+
+### This is a test.
 
 
 1. [IT] (#General info)
